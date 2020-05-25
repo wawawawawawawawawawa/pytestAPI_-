@@ -98,3 +98,6 @@ pytest最新版本([5.4.2](pytestAPI-chinese))的API的翻译与详解，此项�
 
 `pytest:5.4.2`
 
+### Lecense
+
+[MIT](https://github.com/wawawawawawawawawawa/pytestAPI_chinese/blob/master/LICENSE)
